@@ -1,5 +1,5 @@
 {
-    "name": "anam/phantommagick",
+    "name": "kandorlab/phantommagick",
     "description": "PhantomMagick provides a simple API to ease the process of converting HTML to PDF or images",
     "keywords": [
         "Pdf",
@@ -18,7 +18,7 @@
         "converter",
         "Phantom"
     ],
-    "homepage": "https://github.com/anam-hossain/phantommagick",
+    "homepage": "https://github.com/kandorlab/phantommagick",
     "license": "MIT",
     "authors": [
         {
@@ -28,7 +28,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "league/flysystem": "~1.0"
+        "league/flysystem": "~1.0|~2.0|~3.0"
     },
     "require-dev": {
         "mockery/mockery": "~0.9",
