@@ -365,6 +365,8 @@ $conv->toGif($options);
 - [Anam Hossain](https://github.com/anam-hossain)
 - [All Contributors](https://github.com/anam-hossain/phantommagick/graphs/contributors)
 
+## Contact
+- [Kandorlab](https://www.kandorlab.com/)
 ## License
 
 The MIT License (MIT). Please see [LICENSE](http://opensource.org/licenses/MIT) for more information.
